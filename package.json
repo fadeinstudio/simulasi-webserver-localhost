@@ -1,0 +1,20 @@
+{
+  "name": "simulasi-webserver-localhost",
+  "version": "1.0.0",
+  "description": "Simulasi sederhana Webserver bagian localhost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Fadein Studio",
+  "license": "MIT",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  },
+  "engines" : { 
+    "npm" : ">=7.5",
+    "node" : ">=12.22"
+  }
+}
